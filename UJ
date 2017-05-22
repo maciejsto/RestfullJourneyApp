@@ -1,0 +1,59 @@
+Build a RESTy API that implements the necessary endpoints for the following user journeys: 
+
+UJ1: 
+
+A user downloads the app and wants to register. 
+Therefore the user needs to enter an email address and a password. 
+
+UJ2: 
+
+A registered user signs in by entering her email address and password. 
+After login she adds her first insurance contract. She enters a title, the name of the insurance company and adds the yearly price. 
+
+UJ3: 
+
+After the user has added the new contract she realizes that she has a typo in the title and and corrects it. 
+
+UJ4: 
+
+An insurance agent recommends the user to cancel an unnecessary insurance. 
+After cancelling she deletes the corresponding contract from the list. 
+
+Authentication 
+
+After successful login the server sends an auth token to the client. 
+This token will be sent in all further requests within the HTTP header (Authorization: Bearer <token>). 
+
+Notes 
+
+
+
+●  Use node.js 
+
+
+
+●  For data storage you can use either SQL or NoSQL — just as you like 
+
+
+
+●  Use Git and make your code available via GitHub or Bitbucket 
+
+
+
+●  Be pragmatic 
+
+
+
+●  Use appropriate tools, libraries and frameworks to make your life easy 
+
+
+
+●  Integration tests (e.g. with the package supertest ) are sufficient 
+
+
+
+●  Using TypeScript is a bonus
+
+
+
+
