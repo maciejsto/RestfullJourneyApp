@@ -4,14 +4,11 @@ RESTfullJourneyApp
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+RESTy API that implements the necessary endpoints for the following user journeys.
 
 ### Prerequisites
 
 setup node.js environment 
-```
-Give examples
-```
 
 ### Installing
 
@@ -31,43 +28,24 @@ $ cd my-project
 $ npm install
 $ npm run dev
 
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
 $ npm run unit 
 
-Explain how to run the automated tests for this system
-
 ### Break down into end to end tests
 
 $ npm run e2e
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
-
-
 ## Contributing
-
 
 ## Versioning
 
 ## Authors
-
 
 ## License
 
