@@ -8,10 +8,10 @@
 
 <script>
 export default {
-  name: 'hello',
+  name: 'about',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'About Application Component'
     }
   }
 }
